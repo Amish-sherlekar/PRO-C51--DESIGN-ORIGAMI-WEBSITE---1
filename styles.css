@@ -14,8 +14,6 @@ body{
     background-color:#008080;
     
 }
-
-
 .grid{
     display: flex;
     flex-wrap: wrap;
